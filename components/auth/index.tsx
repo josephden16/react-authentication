@@ -24,7 +24,7 @@ const initialState: IAuthState = {
   loginError: "",
 };
 
-// initial value for auth context
+// initial value for the auth context
 const initialContext: IAuthContext = {
   state: {
     user: null,
